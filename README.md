@@ -30,7 +30,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemeh-4252&show_icons=true&locale=en" alt="fatemeh-4252" /></p>
-- <img align="right" alt='💻' width="400" height=""100 src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b76118h543igdn0qzmqc7wb4ja0owj93afhmsyy8twyyv&ep=v1_gifs_search&rid=200.webp&ct=g">
+- <img align="right" alt='💻' width="300" height=""100 src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b76118h543igdn0qzmqc7wb4ja0owj93afhmsyy8twyyv&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemeh-4252&" alt="fatemeh-4252" /></p>
 
