@@ -1,3 +1,11 @@
+
+<img align="right" alt='💻' width="1000"  height="300" src="https://th.bing.com/th/id/OIP.YbjHU__GdwGEw6hfJC8wiAHaHa?rs=1&pid=ImgDetMain">
+
+
+<br>
+
+
+
 <h1 align="center">Hi 👋, I'm fatemeh</h1>
 <h3 align="center">Graduate of Software Engineering👨🏻‍🎓🎓🎧💻📱</h3>
 - <img align="right" alt='💻' width="300" src="https://media2.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.webp?cid=790b7611q0x9268s1mbxem2iui1131io1ssozywqtsmy0wmo&ep=v1_gifs_search&rid=giphy.webp&ct=g">
